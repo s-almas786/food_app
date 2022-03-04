@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className="bg-white h-screen flex flex-col justify-center items-center">
       <p className="text-3xl sm:text-5xl md:text-7xl lg:text-9xl font-black mb-14">
-        My Cafe
+        Fiesta Mexico
       </p>
       <Link
         to="/"

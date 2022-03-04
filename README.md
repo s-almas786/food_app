@@ -6,7 +6,7 @@
   <a href="https://reactfood-app.netlify.app/">Visit the live app</a>
 </h3>
 
-![App screenshot](https://i.ibb.co/W3qVvCn/jira-optimized.jpg)
+![App screenshot](food_app.png)
 
 ## Setting up development environment 🛠
 
