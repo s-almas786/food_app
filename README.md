@@ -1,4 +1,4 @@
-<h1 align="center">A simplified food app built with React</h1>
+<h1 align="center">A simplified food app built with React and Tailwind CSS</h1>
 
 <div align="center">Auto formatted with Prettier</div>
 
